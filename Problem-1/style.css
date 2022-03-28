@@ -1,0 +1,7 @@
+* {
+    margin: 0;
+}
+#image {
+    width: 100%;
+    object-fit: contain;
+}
