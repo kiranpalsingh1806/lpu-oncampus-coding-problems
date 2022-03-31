@@ -1,0 +1,42 @@
+.main-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-basis: 300px;
+    color: white;
+    border: 1px solid black;
+}
+
+.div-1 {
+    background-color: blueviolet;
+    width: 30%;
+}
+.div-2 {
+    background-color: indianred;
+    width: 30%;
+}
+.div-3 {
+    background-color: peru;
+    width: 30%;
+}
+.div-4 {
+    background-color: royalblue;
+    width: 45%;
+}
+.div-5 {
+    background-color: rgb(70, 117, 102);
+    width: 45%;
+}
+.div-6 {
+    background-color: indianred;
+    width: 30%;
+}
+.div-7 {
+    background-color: rosybrown;
+    width: 30%;
+}
+.div-8 {
+    background-color: limegreen;
+    width: 30%;
+}

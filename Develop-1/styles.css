@@ -1,0 +1,48 @@
+* {
+    padding: 0;
+}
+
+.div-1 {
+    background-color: brown;
+    position: relative;
+    width: 7vw;
+    height: 7vw;
+    animation: driveDiv 3s ease forwards;
+}
+
+@keyframes driveDiv {
+    from {left : 0;}
+    to{left : 92vw;}
+    /* to{background-color: white;} */
+}
+
+.div-2 {
+    background-color: blueviolet;
+    position: relative;
+    width: 7vw;
+    height: 7vw;
+    animation: driveDiv 3.2s ease forwards;
+}
+
+.div-3 {
+    background-color: royalblue;
+    position: relative;
+    width: 7vw;
+    height: 7vw;
+    animation: driveDiv 3.4s ease forwards;
+}
+
+.div-4 {
+    background-color: darkgoldenrod;
+    position: relative;
+    width: 7vw;
+    height: 7vw;
+    animation: driveDiv 3.6s ease forwards;
+}
+.div-5 {
+    background-color: darkolivegreen;
+    position: relative;
+    width: 7vw;
+    height: 7vw;
+    animation: driveDiv 3.8s ease forwards;
+}

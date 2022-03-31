@@ -15,3 +15,14 @@ Center the image in div with the help of css
 
 ### Problem 6
 Animate the Divs
+
+### Problem 6
+Animate the Divs
+
+### Problem 8
+How many times it will print ?
+
+### Problem 9
+How to make the cursor free ?
+
+### Problem 10
