@@ -87,24 +87,24 @@ a jk abb mn abc
 5
 bb kj bbc op def
 
-Sample Output 0
+Sample Output 0  
 -1
 0
 1
 2
 3
 
-Sample Input 1
+Sample Input 1 
 1
 ab
 1
 bc
 
-Sample Output 1
+Sample Output 1   
 1
 
 
-Sample Input 2
+Sample Input 2   
 2
 abc
 aaa
@@ -112,7 +112,7 @@ aaa
 bba
 bbb
 
-Sample Output 2
+Sample Output 2   
 1
 3
 
@@ -173,7 +173,7 @@ int main() {
 
 ```
 
-Sample Input 0
+Sample Input 0     
 
 5
 4
@@ -181,14 +181,14 @@ Sample Input 0
 2
 16
 8
-Sample Output 0
-
+Sample Output 0   
 5
+
 Explanation 0
 
 Exclude worker 4 and make the pairs (2, 3) and (1, 5). The cost of the task is |1 - 2| + |4 - 8| = 5.
 
-Sample Input 1
+Sample Input 1 
 
 7
 2
@@ -198,9 +198,9 @@ Sample Input 1
 6
 3
 2
+
 Sample Output 1
-
 4
-Explanation 1
 
+Explanation 1   
 Exclude worker 4 and make the pairs (1, 7), (2, 3), and (5, 6). The cost is |2 - 2| + |13 - 12| + |6 - 3| = 4.
