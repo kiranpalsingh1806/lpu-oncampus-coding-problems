@@ -33,10 +33,8 @@ int main() {
 
 Sample Input 0
 4
-1
-2
-3
-3
+1 2 3 3
+
 Sample Output 0
 2
 
@@ -84,22 +82,12 @@ int main() {
 ```
 
 Sample Input 0
-
 5
-a
-jk
-abb
-mn
-abc
+a jk abb mn abc
 5
-bb
-kj
-bbc
-op
-def
+bb kj bbc op def
 
 Sample Output 0
-
 -1
 0
 1
@@ -107,24 +95,24 @@ Sample Output 0
 3
 
 Sample Input 1
-
 1
 ab
 1
 bc
+
 Sample Output 1
-
 1
-Sample Input 2
 
+
+Sample Input 2
 2
 abc
 aaa
 2
 bba
 bbb
-Sample Output 2
 
+Sample Output 2
 1
 3
 
