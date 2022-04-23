@@ -31,11 +31,11 @@ int main() {
 }
 ```
 
-Sample Input 0
+Sample Input 0    
 4
 1 2 3 3
 
-Sample Output 0
+Sample Output 0   
 2
 
 ### Problem 2 
