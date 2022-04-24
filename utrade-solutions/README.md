@@ -1,31 +1,50 @@
 ### Problem 1
-Print Spiral Matrix
+
+We are given an array and in one moves we can remove atmost two elements of the array. We can do this operation if and only if sum of elements we are removing is less than or equal to k. We have to find the minimum number of operations to remove all the elements of array.
 
 ```cpp
-vector<int> spiralOrder(vector<vector<int>>& matrix) {
-        int M = matrix.size();
-        int N = matrix[0].size();
-        
-        vector<int> ans;
-        
-        for(int i = 0; ans.size() < M * N; i++) {
-            for(int j = i; j < N - i; j++) {
-                ans.push_back(matrix[i][j]);
-            }
-            
-            for(int j = i + 1; j < M - i; j++) {
-                ans.push_back(matrix[j][N - i - 1]);
-            }
-            
-            for(int j = N - i - 2; M - i - 1 != i && j >= i; j--) {
-                ans.push_back(matrix[M - i - 1][j]);
-            }
-            
-            for(int j = M - i - 2; N - i - 1 != i && j > i; j--) {
-                ans.push_back(matrix[j][i]);
-            }
+int solve(vector<int>& arr, int k) {
+    sort(arr.begin(), arr.end());
+    int N = arr.size();
+    int i = 0;
+    int j = N - 1;
+
+    int moves = 0;
+
+    while(i <= j) {
+        if(arr[i] + arr[j] <= k) {
+            moves++;
+            i++;
+            j--;
+        } else {
+            moves++;
+            j--;
         }
-        
-        return ans;
     }
+
+    return moves;
+}
+```
+
+### Problem 2
+We are given a string and we have to find if string str1 can be made from the subsequence of the string str2. If true, we have to return "Yes" else "No".
+
+```cpp
+
+string solve(string &str1, string &str2) {
+    int target = str1.size();
+    int index = 0;
+
+    for(char c : str2) {
+        if(c == str[index]) {
+            index++;
+        }
+    }
+
+    if(index == target) {
+        return "Yes";
+    } else {
+        return "No";
+    }
+}
 ```

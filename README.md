@@ -8,13 +8,16 @@
 - Atmana Innovations (April 2022)
 ```
 ```cpp
+- Whatfix Full Stack (April 2022)
+```
+```cpp
 - MAQ Software (April 2022)
 ```
 ```cpp
 - uTrade Solutions (April 2022)
 ```
 ```cpp
-- Whatfix (March 2022)
+- Whatfix Solution Engineer Intern (March 2022)
 ```
 
 
