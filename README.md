@@ -13,6 +13,9 @@
 ```cpp
 - uTrade Solutions (April 2022)
 ```
+```cpp
+- Whatfix (March 2022)
+```
 
 
 ---
