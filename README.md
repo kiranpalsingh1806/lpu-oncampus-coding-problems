@@ -2,10 +2,13 @@
 (Companies - Latest at the top)
 
 ```cpp
-- OpenText  (April 2022)
+- OpenText (April 2022)
 ```
 ```cpp
 - AMCAT Coding Test (April 2022)
+```
+```cpp
+- Coriolis Technologies (April 2022)
 ```
 ```cpp
 - Atmana Innovations (April 2022)
