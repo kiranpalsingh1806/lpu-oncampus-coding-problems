@@ -1,4 +1,4 @@
-### Interview Questions of different companies
+### Coding Problems of different companies
 (Companies - Latest at the top)
 
 ```cpp
