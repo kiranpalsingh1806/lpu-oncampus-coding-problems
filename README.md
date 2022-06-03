@@ -1,30 +1,16 @@
 ### Coding Problems of different companies
 (Companies - Latest at the top)
 
-```cpp
+- Easy Com (June 2022)
+- AB InBev (May 2022)
 - OpenText (April 2022)
-```
-```cpp
 - AMCAT Coding Test (April 2022)
-```
-```cpp
 - Coriolis Technologies (April 2022)
-```
-```cpp
 - Atmana Innovations (April 2022)
-```
-```cpp
 - Whatfix Full Stack (April 2022)
-```
-```cpp
 - MAQ Software (April 2022)
-```
-```cpp
 - uTrade Solutions (April 2022)
-```
-```cpp
 - Whatfix Solution Engineer Intern (March 2022)
-```
 
 
 ---
