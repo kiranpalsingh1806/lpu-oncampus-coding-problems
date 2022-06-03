@@ -1,5 +1,5 @@
 ### Problem 1
-2D Squares
+2D Squares    
 We are given an integer N and N points with coordinates X and Y. We have to find the four points which makes the square of largest length.
 We have to print the bottom left coordinate of those square which has the largest length.
 
@@ -86,7 +86,7 @@ int main() {
 ```
 
 ### Problem 2
-Last Digit Array
+Last Digit Array    
 We are given an integer N and an array containing N integers. We will make new number by adding the last digit of all the number. We have to find if the resulting 
 number is divible by 10 or not. We have to print "Yes" if it is divisible by 10.
 
@@ -111,7 +111,7 @@ int main()
 }
 ```
 ### Problem 3
-Palindrome Checker
+Palindrome Checker   
 We are given a string and we have to check if it is palindrome or not.
 
 ```cpp
@@ -137,7 +137,7 @@ int main()
 ```
 
 ### Problem 4
-FB Picture Checker
+FB Picture Checker   
 We are given the length L of facebook post. It is the minimum length of square a post can has. W and H are width and height of user photo respectively. If the 
 width or height of user photo is less than L, then print "UPLOAD ANOTHER". If the photo dimensions are fine and is square, then print "ACCEPTED" else print 
 "CROP IT".
@@ -164,7 +164,7 @@ int main()
 }
 ```
 ### Problem 5
-Ordered Books
+Ordered Books   
 Alice is rearranging her library. She takes the innermost shelf and reverses the order of books. She breaks the walls of the shelf. In the end, there will be only books and no shelf walls. Print the order of books.
 
 Opening and closing walls of shelves are shown by '/' and '\' respectively whereas books are represented by lower case alphabets.
@@ -182,6 +182,7 @@ Sample Input
 Sample Output
 iloveu
 
+Approach 1
 ```cpp
 #include <bits/stdc++.h>
 using namespace std;
@@ -211,5 +212,44 @@ int main()
         st.push(s[i]);
     }
     cout << ans << "\n";
+}
+```
+
+Approach 2
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+int main()
+{
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    cout.tie(NULL);
+    string str;
+    std::stack<int> st ;
+    cin>>str;
+    for(int i=0;i<str.size();i++)
+    {
+        if(str[i]=='/')
+          st.push(i);
+        if(str[i]=='\\')
+        {
+            int l=st.top();
+            st.pop();
+            char temp;
+            int m=i-1;
+            reverse(str.begin()+l+1,str.begin()+i);
+            string ans="";
+            for(int j=0;str[j];j++)
+            {
+                if(j!=l && j!=i)
+                  ans+=str[j];
+            }
+            str=ans;
+            i=i-2;
+        }
+
+    }
+    cout<<str;
+    return 0;
 }
 ```
