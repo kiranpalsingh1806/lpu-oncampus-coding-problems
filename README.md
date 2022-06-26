@@ -1,6 +1,8 @@
 ### Coding Problems of different companies
 (Companies - Latest at the top)
 
+- Aethereus (June 2022)
+- Chaayos (June 2022)
 - Increff (June 2022)
 - ZopSmart (June 2022)
 - LimeChat (June 2022)
