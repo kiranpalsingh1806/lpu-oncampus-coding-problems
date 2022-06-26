@@ -1,4 +1,5 @@
 ### Problem 1
+
 Largest Prime Factor    
 You are given an integer num and you have to find the largest prime factor of that number.
 
@@ -6,8 +7,7 @@ You are given an integer num and you have to find the largest prime factor of th
 #include <bits/stdc++.h>
 using namespace std;
 
-bool is_Prime(int x)
-{
+bool is_Prime(int x) {
   if (x <= 1)
     return false;
   for(int i = 2; i <= x / 2; i++) {
@@ -48,8 +48,8 @@ int main() {
 ```
 
 ### Problem 2
-All Permutations of a Given String
-We are given a string and we have to print all the given permutation of given string.
+All Permutations of a Given String       
+We are given a string and we have to print all the given permutation of given string.      
 A permutation also called an “arrangement number” or “order,” is a rearrangement of the elements of an ordered list S into a one-to-one correspondence with S itself. A string of length n has n! permutation.  
 
 ```cpp
@@ -74,8 +74,7 @@ void permute(string s , string answer)
   
 }
   
-int main()
-{
+int main() {
     string s, answer="";
     cin >> s;
     permute(s , answer);
