@@ -1,7 +1,10 @@
 ### Coding Problems of different companies
 (Companies - Latest at the top)
 
-- Aethereus (June 2022)
+- Carwiz (July 2022) Pending
+- FourKites Inc (June 2022) Pending
+- JOSH Technology (June 2022) Pending
+- Aethereus (June 2022) Pending
 - Chaayos (June 2022)
 - Increff (June 2022)
 - ZopSmart (June 2022)

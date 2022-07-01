@@ -47,3 +47,11 @@ Example:
 Consider n = 3, so there are 216 possibilities of combinations and there are exactly 36 of them which are palindromic combinations. So probablity is 36 / 216 = 1 / 6.
 
 The only line of output should consist of a single integer PQ^-1(mod 10e9 + 7) if required probablity is of the form P / Q.
+
+
+---
+This file is created by [Kiranpal Singh](https://github.com/kiranpalsingh1806) <br>
+For Data Structures and Algorithm snippets, [click here](https://github.com/kiranpalsingh1806/DSA-Code-Snippets) <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kiranpalsingh1806&label=Views&color=blue&style=plastic" alt="kiranpalsingh" /> </p>
+
+---
