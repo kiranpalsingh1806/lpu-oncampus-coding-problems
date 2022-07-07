@@ -2,9 +2,9 @@
 (Companies - Latest at the top)
 
 - Virtusa (July 2022)
-- Autowiz (July 2022) Pending (A)
+- Autowiz (July 2022)
 - FourKites Inc (June 2022) Pending (A)
-- JOSH Technology (June 2022) Pending (A)
+- JOSH Technology (June 2022)
 - Aethereus (June 2022)
 - Chaayos (June 2022)
 - Increff (June 2022)
