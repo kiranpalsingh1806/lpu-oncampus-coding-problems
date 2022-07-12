@@ -1,6 +1,7 @@
 ### Coding Problems of different companies
 (Companies - Latest at the top)
 
+- Alpha AI (July 2022)
 - Mercer (July 2022)
 - Krishify (July 2022)
 - Virtusa (July 2022)
