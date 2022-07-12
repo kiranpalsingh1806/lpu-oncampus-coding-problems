@@ -1,7 +1,7 @@
 ### Coding Problems of different companies
 (Companies - Latest at the top)
 
-
+- Mercer (July 2022)
 - Krishify (July 2022)
 - Virtusa (July 2022)
 - Autowiz (July 2022)
