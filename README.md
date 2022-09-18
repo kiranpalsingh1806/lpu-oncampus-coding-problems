@@ -1,6 +1,6 @@
-## LPU On-Campus Coding Problems
+# LPU On-Campus Coding Problems
 
-| Company        | Month-Year  | Problems Count | Link |
+| Company        | Month-Year  | Count | Link |
 |----------------|-------------|----|----------|
 | Xperia         | Sept, 2022   | 2 |Link     |
 | ConverseNow.AI | August, 2022 | 1 |Link     |
