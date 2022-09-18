@@ -1,30 +1,33 @@
-### Coding Problems of different companies
-(Companies - Latest at the top)
+## LPU On-Campus Coding Problems
 
-- Alpha AI (July 2022)
-- Mercer (July 2022)
-- Krishify (July 2022)
-- Virtusa (July 2022)
-- Autowiz (July 2022)
-- FourKites Inc (June 2022)
-- JOSH Technology (June 2022)
-- Aethereus (June 2022)
-- Chaayos (June 2022)
-- Increff (June 2022)
-- ZopSmart (June 2022)
-- LimeChat (June 2022)
-- McKinsey & Company (June 2022)
-- Easy Com (June 2022)
-- AB InBev (May 2022)
-- OpenText (April 2022)
-- AMCAT Coding Test (April 2022)
-- Coriolis Technologies (April 2022)
-- Atmana Innovations (April 2022)
-- Whatfix Full Stack (April 2022)
-- MAQ Software (April 2022)
-- uTrade Solutions (April 2022)
-- Whatfix Solution Engineer Intern (March 2022)
-
+| Company        | Month-Year  | Problems |
+|----------------|-------------|----------|
+| Xperia         | Sept, 2022   | Link     |
+| ConverseNow.AI | August, 2022 | Link     |
+| Hughes         | August, 2022 | Link     |
+| Alpha-AI       | July, 2022   | Link     |
+| Mercer         | July, 2022   | Link     |
+| Krishify       | July, 2022   | Link     |
+|Virtusa  |July, 2022 |Link|
+| Autowiz | July, 2022 |Link|
+| Fourkites | June, 2022 |Link|
+| JOSH Technology | June, 2022 |Link|
+| Aethereus | June, 2022 |Link|
+| Chaayos | June, 2022 |Link|
+| Increff | June, 2022 |Link|
+| Zopsmart | June, 2022 |Link|
+| LimeChat | June, 2022 | Link|
+| McKinsey & Company | June, 2022 |Link|
+| Easy Com | June, 2022 |Link|
+| AB InBev | May, 2022 |Link|
+| OpenText | April, 2022|Link|
+| AMCAT Coding Test| April, 2022|Link|
+| Coriolis Technologies | April, 2022 |Link|
+| Atmana Innovations | April, 2022|Link|
+| Whatfix|April, 2022|Link|
+| MAQ Software | April, 2022 |Link|
+| uTrade Solutions | April, 2022 |Link|
+| Whatfix| March, 2022 |Link|
 
 ---
 This file is created by [Kiranpal Singh](https://github.com/kiranpalsingh1806) <br>
