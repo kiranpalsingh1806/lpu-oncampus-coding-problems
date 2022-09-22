@@ -2,7 +2,8 @@
 
 | Company        | Month-Year  | Count | Link |
 |----------------|-------------|----|----------|
-| Xperia         | Sept, 2022   | 2 |Link     |
+| LTTS         | Sept, 2022   | 1 |(Link)[]     |
+| Xperia         | Sept, 2022   | 2 |(Link)[]     |
 | ConverseNow.AI | August, 2022 | 1 |Link     |
 | Hughes         | August, 2022 | 1 |Link     |
 | Alpha-AI       | July, 2022   | 2 |Link     |
