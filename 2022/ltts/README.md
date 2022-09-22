@@ -1,4 +1,4 @@
-# Company Name
+# LTTS
 
 ## Next Palindrome of Number
 

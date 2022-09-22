@@ -2,8 +2,8 @@
 
 | Company        | Month-Year  | Count | Link |
 |----------------|-------------|----|----------|
-| LTTS         | Sept, 2022   | 1 |(Link)[]     |
-| Xperia         | Sept, 2022   | 2 |(Link)[]     |
+| LTTS         | Sept, 2022   | 1 |[Link](https://github.com/kiranpalsingh1806/lpu-oncampus-coding-problems/tree/master/2022/ltts)     |
+| Xperia         | Sept, 2022   | 2 |[Link](2022/ab-inbev/README.md)     |
 | ConverseNow.AI | August, 2022 | 1 |Link     |
 | Hughes         | August, 2022 | 1 |Link     |
 | Alpha-AI       | July, 2022   | 2 |Link     |
