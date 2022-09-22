@@ -5,7 +5,6 @@
 ```cpp
 ```
 
-
 ## Problem 2
 
 ```cpp
