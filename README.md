@@ -2,6 +2,7 @@
 
 | Company        | Month-Year  | Problems Count | Difficulty | Link |
 |----------------|-------------|----|--------|----------|
+| Nference |Oct, 2022 | 1 |Easy |[Link](2022/nference/README.md)|
 | GreyB Technologies |Sept, 2022 | 3 |Medium |[Link]()|
 | CloverBay Technologies |Sept, 2022 | 2 |Medium |[Link](2022/cloverbay/README.md)| 
 | Trianz |Sept, 2022 | 2 |Easy-Medium|[Link](2022/trianz/README.md)| 
