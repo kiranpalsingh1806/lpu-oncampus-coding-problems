@@ -5,7 +5,7 @@
 | Nference |Oct, 2022 | 1 |Easy |[Link](2022/nference/README.md)|
 | Flexcar |Oct, 2022 | 1 |Medium |[Link](2022/flexcar/README.md)|
 | Mindtree |Sept, 2022 | 1 |Easy |[Link](2022/mindtree/README.md)|
-| GreyB Technologies |Sept, 2022 | 3 |Medium |[Link]()|
+| GreyB Technologies |Sept, 2022 | 3 |Medium |[Link](https://www.hackerrank.com/contests/gb-product-development-intern-lpu/challenges)|
 | CloverBay Technologies |Sept, 2022 | 2 |Medium |[Link](2022/cloverbay/README.md)| 
 | Trianz |Sept, 2022 | 2 |Easy-Medium|[Link](2022/trianz/README.md)| 
 | LTTS |Sept, 2022 | 1 |Easy |[Link](2022/ltts/README.md)| 
